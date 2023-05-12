@@ -4,14 +4,21 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-image: url("/assets/5532919.jpg")
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+}
+
+.content h1{
+    font-style: italic;
+    text-align: center;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    color: yellow;
 }
 
 @media screen and (min-width: 992px) {
